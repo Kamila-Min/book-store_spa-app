@@ -1,6 +1,6 @@
 # Book Store App
 
-This is a Single Page Application (SPA) App in the format of a small online bookstore. Implemented with a transition between the main page and pages with book descriptions.
+This is a Single Page Application (SPA) in the format of a small online bookstore. Implemented with a transition between the main page and pages with book descriptions.
 
 # How to compile and launch
 
