@@ -9,7 +9,7 @@ First, you need to pre-install [Node.js](https://nodejs.org/en/download) or chec
 node -v
 ```
 
-The following command will help you install the missing packages:
+The following command will help you install the required packages:
 ```
 npm install
 ```
