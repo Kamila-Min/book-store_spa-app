@@ -62,15 +62,15 @@ module.exports = {
         new CopyWebpackPlugin({
             patterns: [
                 { from: 'public/assets/images', to: 'assets/images' },
-                { from: 'public/assets/icons', to: 'assets/icons' },
+                // { from: 'public/assets/icons', to: 'assets/icons' },
             ],
         }),
         ...[].concat(isProd ? [new MiniCssExtractPlugin({
             filename: "[name].css",
         })]: []),
-        new SvgStore({
-            path: path.resolve(__dirname, './public/assets/icons/**/*.svg'),
-            fileName: 'svg-sprites.svg',
-        }),
+        // new SvgStore({
+        //     path: path.resolve(__dirname, './public/assets/icons/**/*.svg'),
+        //     fileName: 'svg-sprites.svg',
+        // }),
     ]
 };

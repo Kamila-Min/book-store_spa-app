@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "students",
+			"path": "../students"
+		},
+		{
+			"name": "students",
+			"path": "../../js_tasks/students"
+		}
+	],
+	"settings": {}
+}
