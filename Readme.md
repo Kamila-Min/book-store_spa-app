@@ -6,7 +6,7 @@ This is a Single Page Application (SPA) App in the format of a small online book
 
 First, you need to pre-install [Node.js](https://nodejs.org/en/download) or check its availability with the command:
 ```
-node --version
+node -v
 ```
 
 The following command will help you install the missing packages:
