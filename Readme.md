@@ -4,7 +4,7 @@ This is a Single Page Application (SPA) App in the format of a small online book
 
 # How to compile and launch
 
-First, you need to pre-install Node.js or check its availability with the command:
+First, you need to pre-install [Node.js](https://nodejs.org/en/download) or check its availability with the command:
 ```
 node --version
 ```
